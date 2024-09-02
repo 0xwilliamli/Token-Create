@@ -1,4 +1,4 @@
-## Token Generate
+## Token Generate TXT
 
 This is a starter template using the following stack:
                                                                               |
