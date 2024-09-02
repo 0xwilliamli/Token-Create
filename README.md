@@ -1,4 +1,4 @@
-## Overview
+## Token Generate Platform
 
 This is a starter template using the following stack:
 
