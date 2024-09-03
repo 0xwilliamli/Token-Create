@@ -6,6 +6,7 @@ This is a starter template using the following stack:
 ## Getting Started
 
 Clone this repo
+By working Smart contract deployed
 
 Run the following commands to start the development server:
 
