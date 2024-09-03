@@ -5,7 +5,7 @@ This is a starter template using the following stack:
 
 ## Getting Started
 
-Clone this repo5
+Clone this repo6
 
 Run the following commands to start the development server:
 
